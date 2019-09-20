@@ -1,12 +1,12 @@
 body {
   background-color: #4885ed;
-}
-body {
-  color: blue;
+  font-size: 5vw;
+  text-align: center;
 }
 h1 {
   color: white;
   text-align: center;
+  font-size: 10vw;
 }
 p.serif {
   font-family: "Times New Roman", Times, serif;
