@@ -1,10 +1,12 @@
 body {
   background-color: MediumSeaGreen;
 }
-
+body {
+  color: blue;
+}
 h1 {
   color: navy;
-  margin-left: 20px;
+  text-align: center;
 }
 p.serif {
   font-family: "Times New Roman", Times, serif;
