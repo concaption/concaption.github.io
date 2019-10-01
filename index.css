@@ -8,14 +8,14 @@ h1 {
   text-align: center;
   font-size: 10vw;
 }
-p.serif {
+.serif {
   font-family: "Times New Roman", Times, serif;
 }
 
-p.sansserif {
+.sansserif {
   font-family: Arial, Helvetica, sans-serif;
 }
-p.small{
+.small{
 	font-family: Arial;
 	font-size: 2vw;
 }
