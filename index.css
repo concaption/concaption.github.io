@@ -1,21 +1,24 @@
 body {
-  background-color: #4885ed;
-  font-size: 5vw;
-  text-align: center;
-}
-h1 {
-  color: white;
-  text-align: center;
-  font-size: 10vw;
-}
-p.serif {
-  font-family: "Times New Roman", Times, serif;
+    background-color: #4885ed;
+    font-size: 5vw;
+    text-align: center;
 }
 
-p.sansserif {
-  font-family: Arial, Helvetica, sans-serif;
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 10vw;
 }
-p.small{
-	font-family: Arial;
-	font-size: 2vw;
+
+p.serif {
+    font-family: "Times New Roman", Times, serif;
+}
+
+p.para1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p.small {
+    font-family: Arial;
+    font-size: 2vw;
 }
