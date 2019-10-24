@@ -470,9 +470,9 @@ p {
     position: relative; }
     .navigation .navbar .navbar-brand {
       padding-top: 0;
-      padding-bottom: 2px; }
+      padding-bottom: 0px; }
     .navigation .navbar .navbar-toggler {
-      padding: -2px 6px; }
+      padding: 0px 6px; }
       .navigation .navbar .navbar-toggler .toggler-icon {
         width: 30px;
         height: 2px;
@@ -504,7 +504,7 @@ p {
     @media only screen and (min-width: 768px) and (max-width: 991px) {
       .navigation .navbar .navbar-collapse {
         position: absolute;
-        top: 158%;
+        top: 130%;
         left: 0;
         width: 100%;
         background-color: #fff;
