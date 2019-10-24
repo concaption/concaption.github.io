@@ -470,7 +470,7 @@ p {
     position: relative; }
     .navigation .navbar .navbar-brand {
       padding-top: 0;
-      padding-bottom: 5px; }
+      padding-bottom: 0px; }
     .navigation .navbar .navbar-toggler {
       padding: 2px 6px; }
       .navigation .navbar .navbar-toggler .toggler-icon {
