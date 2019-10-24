@@ -1393,8 +1393,8 @@ p.form-message.success, p.form-message.error {
   height: 50px;
   line-height: 46px;
   border-radius: 50%;
-  border: 2px solid #586376;
-  background-color: #152136;
+  border: 2px solid #5d7baf;
+  background-color: #754ef9;
   text-align: center;
   z-index: 99;
   -webkit-transition: all 0.3s ease-out 0s;
