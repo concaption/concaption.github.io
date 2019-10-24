@@ -451,7 +451,7 @@ p {
   -webkit-box-shadow: 0px 0px 29px 0px rgba(134, 134, 134, 0.25);
   -moz-box-shadow: 0px 0px 29px 0px rgba(134, 134, 134, 0.25);
   box-shadow: 0px 0px 29px 0px rgba(134, 134, 134, 0.25);
-  padding: 10px 0;
+  padding: 5px 0;
   background-color: #fff;
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
@@ -459,7 +459,7 @@ p {
   -o-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s; }
   .navigation.sticky {
-    padding: 10px 0;
+    padding: 5px 0;
     -webkit-transition: all 0.3s ease-out 0s;
     -moz-transition: all 0.3s ease-out 0s;
     -ms-transition: all 0.3s ease-out 0s;
@@ -472,7 +472,7 @@ p {
       padding-top: 0;
       padding-bottom: 2px; }
     .navigation .navbar .navbar-toggler {
-      padding: 2px 6px; }
+      padding: 0px 6px; }
       .navigation .navbar .navbar-toggler .toggler-icon {
         width: 30px;
         height: 2px;
@@ -578,7 +578,7 @@ p {
 .header-content {
   height: 730px;
   width: 100%;
-  margin-top: 90px;
+  margin-top: 50px;
   position: relative;
   overflow: hidden;
   background-color: #fbfbfb; }
